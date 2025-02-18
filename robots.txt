@@ -1,4 +1,4 @@
-Sitemap: sitemap.xml
+Sitemap: https://roofmossremovalvancouver.com/sitemap.xml
 User-agent: rogerbot
 Disallow: /
 User-agent: dotbot
