@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://roofmossremovalvancouver.com/privacy-policy.html">
+<link rel="canonical" href="privacy-policy.html">
 <link rel="shortcut icon"  href="img/pdfresizercompdf-crop1pdf-removebg-preview21.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,166 +18,13 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.x8e8c6a5397d41fc136edbc177ee22d8e ul{
-padding-left: 0px;
-}
-.nav-item .nav-link{
-display: -webkit-flex;
-align-items: center;
-padding: 12px 0!important;
-margin: 0px 19.9px!important;
--webkit-align-items: center;
-}
-.hamburger span{
-position: absolute;
-right: 0;
-width: 30.5px;
-height: 2px;
-border-right: 5px;
-background-color: #000000;
-}
-.y7ceffa70dc90e3d19d6b23fdf9e9a1c4{
-font-weight: 700 !important;
-}
-.dropdown .dropdown-menu .dropdown-item{
-width: auto;
-padding: 0.2em 1.3em 0.2em 1.3em !important;
-}
-.nav-link:hover, .dropdown-item:hover{
- opacity: .75;
-}
-*{
-font-family: 'DM Sans', sans-serif;
-}
-.nav-link{
-color: #000000!important;
-}
-.dropdown-menu{
-max-width:800px;
-overflow-x: auto;
-}
-.fa-star,.fa-star-half-alt{
-font-size: 15px;
-}
-.navbar-nav li:hover>.dropdown-menu{
-display: block;
-}
-.hamburger span:nth-child(1){
-top: 0;
-transition: all 0.2s;
-}
-.w914ea13590e483f18da41e4d96619a21 i{
-font-size: 19.8px;
-padding: 10px;
-}
-.navbar{
-background: #ffffff;
-transition: none;
-min-height: 77px;
-padding-top: 10px;
-padding-bottom: 10.2px;
-position: relative;
-z-index: 1000;
-box-shadow: 0 0 14.8px 0 rgb(0 0 0 / 10%);
-}
-.navbar-toggler{
--webkit-align-self: flex-start;
--ms-flex-item-align: start;
-align-self: flex-start;
-padding: 0px 0px;
-font-size: 19.7px;
-line-height: 1;
-background: transparent;
-border: 1px solid transparent!important;
-border-radius: 0.25rem;
-}
-a:hover, a:focus, a.active{
-color:#000000!important;
-}
-.dropdown .dropdown-menu{
-background: #ffffff;
-position: absolute;
-display: none;
-min-width: 49.5px;
-padding-top: 10.1px;
-box-shadow: 0 0 15.4px 0 rgb(0 0 0 / 10%);
-padding-bottom: 9.7px;
-text-align: left;
-}
-a{
-color: black;
-text-decoration: none;
-}
-.x8e8c6a5397d41fc136edbc177ee22d8e{
-padding-top: 4rem;
-padding-bottom: 6rem;
-background-color: #ceebf1;
-bottom: 0;
-z-index: 0;
-width: 100%;
-}
-.x8e8c6a5397d41fc136edbc177ee22d8e li{
-list-style: none;
-padding-left: 0;
-margin-top: 1.5rem;
-text-align: left;
-color: #000000;
-}
-.hamburger span:nth-child(4){
-top: 16px;
-transition: all 0.2s;
-}
-.v21a0d8473856a7c9818cf1b6d7fb4037,.v21a0d8473856a7c9818cf1b6d7fb4037:active{
-background-color:#ffffff!important;
-border-color:#000000!important;
-color:#000000!important;
-padding: 10.4px 19.7px!important;
-border-radius: 0;
-font-weight: 700!important;
-letter-spacing: 0px;
-transition-property: all;
-transition-duration: .2s;
-min-width: 199.8px !important;
-}
-a:hover{
-color:#000000!important;
-background: #ffffff!important;
-opacity: .75;
-text-decoration: none;
-}
-.x8e8c6a5397d41fc136edbc177ee22d8e *{
-color:#020202;
-font-size:20px!important;
-}
-.hamburger span:nth-child(2){
+.hamburger span:nth-child(3){
 top: 8px;
 transition: all 0.15s;
 }
-html{
-scroll-behavior: smooth;
-}
-.x8e8c6a5397d41fc136edbc177ee22d8e .d069474876043b3652006d1ca0ca6ce67{
-display: flex;
-justify-content: space-between;
-align-items: center;
-padding-top: 1.5rem;
-margin-top: 4rem;
-border-top: 2px solid #020202;
-}
-.v21a0d8473856a7c9818cf1b6d7fb4037:hover, .v21a0d8473856a7c9818cf1b6d7fb4037:focus, .v21a0d8473856a7c9818cf1b6d7fb4037.focus, .v21a0d8473856a7c9818cf1b6d7fb4037.active{
-color: #ffffff !important;
-background-color: #000000 !important;
-border-color: #000000 !important;
-}
-button.navbar-toggler{
-width: 31px;
-height: 18.5px;
-cursor: pointer;
-transition: all 0.2s;
-top: 2rem;
-display: block;
-right: 1.5rem;
-position: absolute;
+.yd3b0fe6dc35ef7bfa4d18add8b7fec77 *{
+color:#060606;
+font-size:20px!important;
 }
 .dropdown-item{
 display: block;
@@ -190,24 +37,177 @@ white-space: nowrap;
 background-color: transparent;
 border: 0;
 }
-.hamburger span:nth-child(3){
+.hamburger span:nth-child(1){
+top: 0;
+transition: all 0.2s;
+}
+.hamburger span:nth-child(2){
 top: 8px;
 transition: all 0.15s;
 }
-p, .a3f0b25792c85cc0825c76f8906dcaddc{
+.hamburger span:nth-child(4){
+top: 16px;
+transition: all 0.2s;
+}
+.navbar{
+background: #ffffff;
+transition: none;
+min-height: 76.9px;
+padding-top: 9.5px;
+padding-bottom: 9.7px;
+position: relative;
+z-index: 1000;
+box-shadow: 0 0 14.7px 0 rgb(0 0 0 / 10%);
+}
+.dropdown-menu{
+max-width:800px;
+overflow-x: auto;
+}
+.yd3b0fe6dc35ef7bfa4d18add8b7fec77 .b2b5c42e398728a345460883b3f1c97cd{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-top: 1.5rem;
+margin-top: 4rem;
+border-top: 2px solid #060606;
+}
+.yd3b0fe6dc35ef7bfa4d18add8b7fec77 a{
+color:#060606;
+text-decoration: underline;
+}
+.nav-item .nav-link{
+display: -webkit-flex;
+align-items: center;
+padding: 11.9px 0!important;
+margin: 0px 20.5px!important;
+-webkit-align-items: center;
+}
+.fa-star,.fa-star-half-alt{
+font-size: 15.5px;
+}
+.navbar-toggler{
+-webkit-align-self: flex-start;
+-ms-flex-item-align: start;
+align-self: flex-start;
+padding: 0px 0px;
+font-size: 19.9px;
+line-height: 1;
+background: transparent;
+border: 1px solid transparent!important;
+border-radius: 0.25rem;
+}
+.yd3b0fe6dc35ef7bfa4d18add8b7fec77{
+padding-top: 4rem;
+padding-bottom: 6rem;
+background-color: #c9e6ec;
+bottom: 0;
+z-index: 0;
+width: 100%;
+}
+html{
+scroll-behavior: smooth;
+}
+p, .wd4516929eff015905c89d9e3f4d6a42e{
 font-size:20px;
 line-height: 1.68;
 font-weight: 400;
 }
-.x8e8c6a5397d41fc136edbc177ee22d8e a{
-color:#020202;
-text-decoration: underline;
+a:hover, a:focus, a.active{
+color:#000000!important;
+}
+.nav-link{
+color: #000000!important;
+}
+.dropdown .dropdown-menu{
+background: #ffffff;
+position: absolute;
+display: none;
+min-width: 50.5px;
+padding-top: 10.3px;
+box-shadow: 0 0 15.4px 0 rgb(0 0 0 / 10%);
+padding-bottom: 10.3px;
+text-align: left;
+}
+.u697af038e303cbde32183b8a40f32f38:hover, .u697af038e303cbde32183b8a40f32f38:focus, .u697af038e303cbde32183b8a40f32f38.focus, .u697af038e303cbde32183b8a40f32f38.active{
+color: #ffffff !important;
+background-color: #000000 !important;
+border-color: #000000 !important;
+}
+.u697af038e303cbde32183b8a40f32f38,.u697af038e303cbde32183b8a40f32f38:active{
+background-color:#ffffff!important;
+border-color:#000000!important;
+color:#000000!important;
+padding: 10.4px 20.3px!important;
+border-radius: 0;
+font-weight: 700!important;
+letter-spacing: 0px;
+transition-property: all;
+transition-duration: .2s;
+min-width: 199.8px !important;
+}
+.w300d2bd7d2edfa12fff370d3b97205c4 i{
+font-size: 20.3px;
+padding: 10px;
+}
+.navbar-nav li:hover>.dropdown-menu{
+display: block;
+}
+*{
+font-family: 'DM Sans', sans-serif;
+}
+.yd3b0fe6dc35ef7bfa4d18add8b7fec77 ul{
+padding-left: 0px;
+}
+a:hover{
+color:#000000!important;
+background: #ffffff!important;
+opacity: .75;
+text-decoration: none;
+}
+a{
+color: black;
+text-decoration: none;
+}
+.dropdown .dropdown-menu .dropdown-item{
+width: auto;
+padding: 0.2em 1.3em 0.2em 1.3em !important;
+}
+.nav-link:hover, .dropdown-item:hover{
+ opacity: .75;
+}
+.hamburger span{
+position: absolute;
+right: 0;
+width: 30.5px;
+height: 2px;
+border-right: 5px;
+background-color: #000000;
+}
+.tce8ebd031ec2919ecb3b61e7d398a4af{
+font-weight: 700 !important;
+}
+button.navbar-toggler{
+width: 31.4px;
+height: 17.6px;
+cursor: pointer;
+transition: all 0.2s;
+top: 2rem;
+display: block;
+right: 1.5rem;
+position: absolute;
+}
+.yd3b0fe6dc35ef7bfa4d18add8b7fec77 li{
+list-style: none;
+padding-left: 0;
+margin-top: 1.5rem;
+text-align: left;
+color: #000000;
 }
 </style>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg px-md-5">
-<a class="navbar-brand" href="https://roofmossremovalvancouver.com/gutter-cleaning-vancouver-washington.html"  > 
+<nav class="navbar px-md-5 navbar-expand-lg">
+<a class="navbar-brand" href="gutter-cleaning-vancouver-washington.html"  > 
 <img alt="" src="img/pdfresizercompdf-crop1pdf-removebg-preview21.png" width="100px" >
 </a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -216,26 +216,26 @@ text-decoration: underline;
 <div class="navbar-collapse collapse" id="navbarSupportedContent">
 <ul class="ml-auto navbar-nav">
 <li class="nav-item">
-<a class="nav-link a3f0b25792c85cc0825c76f8906dcaddc" href="https://roofmossremovalvancouver.com/gutter-cleaning-vancouver-washington.html" ><b>Gutter Cleaning Vancouver Washington</b></a>
+<a class="wd4516929eff015905c89d9e3f4d6a42e nav-link" href="gutter-cleaning-vancouver-washington.html" ><b>Gutter Cleaning Vancouver Washington</b></a>
 </li>
 <li class="nav-item">
-<a class="nav-link a3f0b25792c85cc0825c76f8906dcaddc" href="https://roofmossremovalvancouver.com/pressure-washing-vancouver-washington.html" ><b>Pressure Washing Vancouver Washington</b></a>
+<a class="nav-link wd4516929eff015905c89d9e3f4d6a42e" href="pressure-washing-vancouver-washington.html" ><b>Pressure Washing Vancouver Washington</b></a>
 </li>
 <li class="nav-item">
-<a class="nav-link a3f0b25792c85cc0825c76f8906dcaddc" href="https://roofmossremovalvancouver.com/roof-moss-removal-vancouver-washington.html" ><b>Roof Moss Removal Vancouver Washington</b></a>
+<a class="nav-link wd4516929eff015905c89d9e3f4d6a42e" href="roof-moss-removal-vancouver-washington.html" ><b>Roof Moss Removal Vancouver Washington</b></a>
 </li>
 <li class="nav-item">
-<a class="a3f0b25792c85cc0825c76f8906dcaddc nav-link" href="https://roofmossremovalvancouver.com/roof-repair-vancouver-washington.html" ><b>Roof Repair Vancouver Washington</b></a>
+<a class="nav-link wd4516929eff015905c89d9e3f4d6a42e" href="roof-repair-vancouver-washington.html" ><b>Roof Repair Vancouver Washington</b></a>
 </li>
 <li class="dropdown nav-item">
-<a class="nav-link dropdown-toggle a3f0b25792c85cc0825c76f8906dcaddc" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>More</b></a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="a3f0b25792c85cc0825c76f8906dcaddc dropdown-item" href="https://roofmossremovalvancouver.com/window-washing-vancouver-washington.html" >Window Washing Vancouver Washington</a>
-<a class="a3f0b25792c85cc0825c76f8906dcaddc dropdown-item" href="https://roofmossremovalvancouver.com/how-much-does-a-roof-moss-removal-service-cost-in-vancouver-washington.html" >How Much Does a Roof Moss Removal Service Cost in Vancouver Washington?</a>
+<a class="dropdown-toggle nav-link wd4516929eff015905c89d9e3f4d6a42e" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>More</b></a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item wd4516929eff015905c89d9e3f4d6a42e" href="window-washing-vancouver-washington.html" >Window Washing Vancouver Washington</a>
+<a class="wd4516929eff015905c89d9e3f4d6a42e dropdown-item" href="how-much-does-a-roof-moss-removal-service-cost-in-vancouver-washington.html" >How Much Does a Roof Moss Removal Service Cost in Vancouver Washington?</a>
 </div>
-</li><li class="nav-item"><a class="nav-link a3f0b25792c85cc0825c76f8906dcaddc" href="https://roofmossremovalvancouver.com/about-us.html"><b>About Us</b></a></li>
+</li><li class="nav-item"><a class="wd4516929eff015905c89d9e3f4d6a42e nav-link" href="about-us.html"><b>About Us</b></a></li>
 <li class="nav-item">
-<a class="a3f0b25792c85cc0825c76f8906dcaddc v21a0d8473856a7c9818cf1b6d7fb4037 btn" href="https://roofmossremovalvancouver.com/get-a-quote/" rel="nofollow"><b>Contact Us</b></a>
+<a class="btn wd4516929eff015905c89d9e3f4d6a42e u697af038e303cbde32183b8a40f32f38" href="https://roofmossremovalvancouver.com/get-a-quote/" rel="nofollow"><b>Contact Us</b></a>
 </li>
 </ul>
 </div>
@@ -304,10 +304,10 @@ admin@roofmossremovalvancouver.com</br>
 </p>
 </section>
 </div>
-<footer class="x8e8c6a5397d41fc136edbc177ee22d8e">
+<footer class="yd3b0fe6dc35ef7bfa4d18add8b7fec77">
 <div class="container"><div class="row"><div class="col-lg-6">
-<h5 class="xbbab9f433ccefcb67bdd4c3e8adcf348 x141dfdeb4647a74269d446dd17debc1c y7ceffa70dc90e3d19d6b23fdf9e9a1c4 mb-0">Roof Moss Removal Vancouver Washington</h5>
-<ul class="a3f0b25792c85cc0825c76f8906dcaddc">
+<h5 class="tce8ebd031ec2919ecb3b61e7d398a4af ec50f50a0c4a8a970ab9986f1b9c10927 z97d2018eeadbbe0843eff61767318d0d mb-0">Roof Moss Removal Vancouver Washington</h5>
+<ul class="wd4516929eff015905c89d9e3f4d6a42e">
 <li> admin@roofmossremovalvancouver.com</li>
 <li>(360) 300-8149</li> 
 <li>City : Vancouver</li>
@@ -315,23 +315,23 @@ admin@roofmossremovalvancouver.com</br>
 <li>Zip : 98664</li>
 </ul> 
 </div><div class="col-md-3">
-<h5 class="x141dfdeb4647a74269d446dd17debc1c mb-3 d8ccaae11d3969011d44d739cf10ec9b6"><b>USEFUL LINKS</b></h5> 
-<ul class="a3f0b25792c85cc0825c76f8906dcaddc">
+<h5 class="z97d2018eeadbbe0843eff61767318d0d mb-3 x226bc58f07a602552de0a0885c63dafd"><b>USEFUL LINKS</b></h5> 
+<ul class="wd4516929eff015905c89d9e3f4d6a42e">
 <li><a href="https://sites.google.com/view/roofmossremovalvancouver/home" rel="nofollow" target="_blank">Google Sites</a></li><li><a href="https://roofmossremovalvancouver.bandcamp.com/" rel="nofollow" target="_blank">BandCamp</a></li><li><a href="https://gravatar.com/roofmossremovalvancouver" rel="nofollow" target="_blank">Gravatar</a></li><li><a href="https://issuu.com/roofmossremovalvancouver" rel="nofollow" target="_blank">Issuu</a></li><li><a href="https://linktr.ee/roofmossremovalvancouver" rel="nofollow" target="_blank">linktr</a></li><li><a href="https://www.mapleprimes.com/users/roofmossremovalvancouver" rel="nofollow" target="_blank">MaplePrimes</a></li>
 </ul>
 </div></div><div class="row">
 <div class="col-12">
-<div class="d069474876043b3652006d1ca0ca6ce67">
-<div><a href="https://roofmossremovalvancouver.com/sitemap.html" rel="nofollow">Sitemap | </a>
-<a class="a3f0b25792c85cc0825c76f8906dcaddc" href="https://roofmossremovalvancouver.com/privacy-policy.html" rel="nofollow">Privacy Policy</a> 
-<a href="https://roofmossremovalvancouver.com/about-us.html" rel="nofollow">
+<div class="b2b5c42e398728a345460883b3f1c97cd">
+<div><a href="sitemap.html" rel="nofollow">Sitemap | </a>
+<a class="wd4516929eff015905c89d9e3f4d6a42e" href="privacy-policy.html" rel="nofollow">Privacy Policy</a> 
+<a href="about-us.html" rel="nofollow">
 <b>About Us</b></a>
 </div><div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/roofmossremovalvancouver/" class="w914ea13590e483f18da41e4d96619a21 facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://www.instagram.com/roofmossremovalvancouver/" class="w914ea13590e483f18da41e4d96619a21 google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://x.com/roofmossremova" class="w914ea13590e483f18da41e4d96619a21 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
-<a href="https://www.tumblr.com/roofmossremovalvancouver" class="w914ea13590e483f18da41e4d96619a21 tumblr" rel="nofollow"><i class="fa fa-tumblr"></i></a>
+<a href="https://www.facebook.com/roofmossremovalvancouver/" class="w300d2bd7d2edfa12fff370d3b97205c4 facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/roofmossremovalvancouver/" class="w300d2bd7d2edfa12fff370d3b97205c4 google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://x.com/roofmossremova" class="w300d2bd7d2edfa12fff370d3b97205c4 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.tumblr.com/roofmossremovalvancouver" class="w300d2bd7d2edfa12fff370d3b97205c4 tumblr" rel="nofollow"><i class="fa fa-tumblr"></i></a>
 </div></div>
 </div>
 </div></div>
